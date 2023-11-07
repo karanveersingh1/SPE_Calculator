@@ -1,1 +1,2 @@
-localhost ansible_user=karanveer
+[localhost]
+127.0.01 ansible_connection=local ansible_user = karanveer
