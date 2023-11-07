@@ -2,7 +2,7 @@ import org.example.Main;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-public class test {
+public class CTest {
     private Main calculator;
     private static final double DELTA = 1e-15;
 
